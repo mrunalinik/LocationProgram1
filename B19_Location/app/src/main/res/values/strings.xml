@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">B19_Location</string>
+    <string name="getLocationString">Get Location</string>
+</resources>
